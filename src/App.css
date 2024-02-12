@@ -1,0 +1,34 @@
+.container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: paleturquoise;
+  }
+
+form input {
+  border: none;
+  width: 100%;
+  height: 30px;
+  background-color: white;
+  border-radius: 4px;
+  align-content: center;
+  margin-bottom: 15px;
+}
+
+.buttons {
+  display: flex;
+  padding-bottom: 15px;
+}
+
+#button { 
+  width: 170px;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 4px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
